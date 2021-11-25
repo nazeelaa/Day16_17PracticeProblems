@@ -1,0 +1,14 @@
+E:\vs\Day16_17Permutation\obj\Debug\netcoreapp3.1\Day16_17Permutation.csproj.AssemblyReference.cache
+E:\vs\Day16_17Permutation\obj\Debug\netcoreapp3.1\Day16_17Permutation.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\Day16_17Permutation\obj\Debug\netcoreapp3.1\Day16_17Permutation.AssemblyInfoInputs.cache
+E:\vs\Day16_17Permutation\obj\Debug\netcoreapp3.1\Day16_17Permutation.AssemblyInfo.cs
+E:\vs\Day16_17Permutation\obj\Debug\netcoreapp3.1\Day16_17Permutation.csproj.CoreCompileInputs.cache
+E:\vs\Day16_17Permutation\bin\Debug\netcoreapp3.1\Day16_17Permutation.exe
+E:\vs\Day16_17Permutation\bin\Debug\netcoreapp3.1\Day16_17Permutation.deps.json
+E:\vs\Day16_17Permutation\bin\Debug\netcoreapp3.1\Day16_17Permutation.runtimeconfig.json
+E:\vs\Day16_17Permutation\bin\Debug\netcoreapp3.1\Day16_17Permutation.runtimeconfig.dev.json
+E:\vs\Day16_17Permutation\bin\Debug\netcoreapp3.1\Day16_17Permutation.dll
+E:\vs\Day16_17Permutation\bin\Debug\netcoreapp3.1\Day16_17Permutation.pdb
+E:\vs\Day16_17Permutation\obj\Debug\netcoreapp3.1\Day16_17Permutation.dll
+E:\vs\Day16_17Permutation\obj\Debug\netcoreapp3.1\Day16_17Permutation.pdb
+E:\vs\Day16_17Permutation\obj\Debug\netcoreapp3.1\Day16_17Permutation.genruntimeconfig.cache
