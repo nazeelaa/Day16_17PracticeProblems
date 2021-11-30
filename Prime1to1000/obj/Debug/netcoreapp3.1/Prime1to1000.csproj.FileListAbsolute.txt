@@ -1,0 +1,13 @@
+F:\vs\Prime1to1000\bin\Debug\netcoreapp3.1\Prime1to1000.exe
+F:\vs\Prime1to1000\bin\Debug\netcoreapp3.1\Prime1to1000.deps.json
+F:\vs\Prime1to1000\bin\Debug\netcoreapp3.1\Prime1to1000.runtimeconfig.json
+F:\vs\Prime1to1000\bin\Debug\netcoreapp3.1\Prime1to1000.runtimeconfig.dev.json
+F:\vs\Prime1to1000\bin\Debug\netcoreapp3.1\Prime1to1000.dll
+F:\vs\Prime1to1000\bin\Debug\netcoreapp3.1\Prime1to1000.pdb
+F:\vs\Prime1to1000\obj\Debug\netcoreapp3.1\Prime1to1000.GeneratedMSBuildEditorConfig.editorconfig
+F:\vs\Prime1to1000\obj\Debug\netcoreapp3.1\Prime1to1000.AssemblyInfoInputs.cache
+F:\vs\Prime1to1000\obj\Debug\netcoreapp3.1\Prime1to1000.AssemblyInfo.cs
+F:\vs\Prime1to1000\obj\Debug\netcoreapp3.1\Prime1to1000.csproj.CoreCompileInputs.cache
+F:\vs\Prime1to1000\obj\Debug\netcoreapp3.1\Prime1to1000.dll
+F:\vs\Prime1to1000\obj\Debug\netcoreapp3.1\Prime1to1000.pdb
+F:\vs\Prime1to1000\obj\Debug\netcoreapp3.1\Prime1to1000.genruntimeconfig.cache
