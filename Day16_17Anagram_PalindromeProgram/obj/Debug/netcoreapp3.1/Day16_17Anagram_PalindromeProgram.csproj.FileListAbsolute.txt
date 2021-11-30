@@ -1,0 +1,14 @@
+E:\vs\Day16_17Anagram_PalindromeProgram\obj\Debug\netcoreapp3.1\Day16_17Anagram_PalindromeProgram.csproj.AssemblyReference.cache
+E:\vs\Day16_17Anagram_PalindromeProgram\obj\Debug\netcoreapp3.1\Day16_17Anagram_PalindromeProgram.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\Day16_17Anagram_PalindromeProgram\obj\Debug\netcoreapp3.1\Day16_17Anagram_PalindromeProgram.AssemblyInfoInputs.cache
+E:\vs\Day16_17Anagram_PalindromeProgram\obj\Debug\netcoreapp3.1\Day16_17Anagram_PalindromeProgram.AssemblyInfo.cs
+E:\vs\Day16_17Anagram_PalindromeProgram\obj\Debug\netcoreapp3.1\Day16_17Anagram_PalindromeProgram.csproj.CoreCompileInputs.cache
+E:\vs\Day16_17Anagram_PalindromeProgram\bin\Debug\netcoreapp3.1\Day16_17Anagram_PalindromeProgram.exe
+E:\vs\Day16_17Anagram_PalindromeProgram\bin\Debug\netcoreapp3.1\Day16_17Anagram_PalindromeProgram.deps.json
+E:\vs\Day16_17Anagram_PalindromeProgram\bin\Debug\netcoreapp3.1\Day16_17Anagram_PalindromeProgram.runtimeconfig.json
+E:\vs\Day16_17Anagram_PalindromeProgram\bin\Debug\netcoreapp3.1\Day16_17Anagram_PalindromeProgram.runtimeconfig.dev.json
+E:\vs\Day16_17Anagram_PalindromeProgram\bin\Debug\netcoreapp3.1\Day16_17Anagram_PalindromeProgram.dll
+E:\vs\Day16_17Anagram_PalindromeProgram\bin\Debug\netcoreapp3.1\Day16_17Anagram_PalindromeProgram.pdb
+E:\vs\Day16_17Anagram_PalindromeProgram\obj\Debug\netcoreapp3.1\Day16_17Anagram_PalindromeProgram.dll
+E:\vs\Day16_17Anagram_PalindromeProgram\obj\Debug\netcoreapp3.1\Day16_17Anagram_PalindromeProgram.pdb
+E:\vs\Day16_17Anagram_PalindromeProgram\obj\Debug\netcoreapp3.1\Day16_17Anagram_PalindromeProgram.genruntimeconfig.cache
