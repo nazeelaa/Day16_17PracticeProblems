@@ -1,0 +1,13 @@
+E:\vs\MergeSortProgram\bin\Debug\netcoreapp3.1\MergeSortProgram.exe
+E:\vs\MergeSortProgram\bin\Debug\netcoreapp3.1\MergeSortProgram.deps.json
+E:\vs\MergeSortProgram\bin\Debug\netcoreapp3.1\MergeSortProgram.runtimeconfig.json
+E:\vs\MergeSortProgram\bin\Debug\netcoreapp3.1\MergeSortProgram.runtimeconfig.dev.json
+E:\vs\MergeSortProgram\bin\Debug\netcoreapp3.1\MergeSortProgram.dll
+E:\vs\MergeSortProgram\bin\Debug\netcoreapp3.1\MergeSortProgram.pdb
+E:\vs\MergeSortProgram\obj\Debug\netcoreapp3.1\MergeSortProgram.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\MergeSortProgram\obj\Debug\netcoreapp3.1\MergeSortProgram.AssemblyInfoInputs.cache
+E:\vs\MergeSortProgram\obj\Debug\netcoreapp3.1\MergeSortProgram.AssemblyInfo.cs
+E:\vs\MergeSortProgram\obj\Debug\netcoreapp3.1\MergeSortProgram.csproj.CoreCompileInputs.cache
+E:\vs\MergeSortProgram\obj\Debug\netcoreapp3.1\MergeSortProgram.dll
+E:\vs\MergeSortProgram\obj\Debug\netcoreapp3.1\MergeSortProgram.pdb
+E:\vs\MergeSortProgram\obj\Debug\netcoreapp3.1\MergeSortProgram.genruntimeconfig.cache
