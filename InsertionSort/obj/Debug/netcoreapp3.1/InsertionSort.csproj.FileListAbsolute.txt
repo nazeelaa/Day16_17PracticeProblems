@@ -1,0 +1,14 @@
+F:\vs\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.exe
+F:\vs\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.deps.json
+F:\vs\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.runtimeconfig.json
+F:\vs\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.runtimeconfig.dev.json
+F:\vs\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.dll
+F:\vs\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.pdb
+F:\vs\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.csproj.AssemblyReference.cache
+F:\vs\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+F:\vs\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.AssemblyInfoInputs.cache
+F:\vs\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.AssemblyInfo.cs
+F:\vs\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.csproj.CoreCompileInputs.cache
+F:\vs\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.dll
+F:\vs\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.pdb
+F:\vs\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.genruntimeconfig.cache
